@@ -23,3 +23,4 @@ Repository with all projects developed on the DIO learning platform.
 * [Instagram - Aula: *Atalhos*](https://www.instagram.com/p/CfEc-sCAhb_/)
 * [Aula: *Debug* - Calculadora Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/primeiro_programa_java/src/br/com/dio/calculadora/Calculadora.java)
 * [Aula: *Criando seu primeiro projeto com Eclipse*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/primeiro_programa_java/src/br/com/dio/PrimeiroPrograma.java)
+* [Aula: *Mais Atalhos e versionamento*](https://github.com/claudiadejesusdantas/mais_atalhos_e_versionamento)
