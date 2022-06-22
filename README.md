@@ -1,5 +1,6 @@
 # Projetos Digital Innovation One/ Projects Digital Innovation One
-
+#### Para se cadastrar na plataforma: [clique aqui](https://dio.me/sign-up?ref=GT89AV3WGV)
+#### To register on the platform: [click here](https://dio.me/sign-up?ref=GT89AV3WGV)
 
 Repositório com todos os projetos desenvolvidos na plataforma de ensino DIO.
 Repository with all projects developed on the DIO learning platform.
