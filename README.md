@@ -29,6 +29,8 @@ Repository with all projects developed on the DIO learning platform.
 ## Curso: VARIÁVEIS, TIPOS DE DADOS E OPERADORES MATEMÁTICOS EM JAVA
 ### Professora: Thiago Leite e Carvalho
 
-*[Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aula_variaveis)
+* [Exercício: Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioUm_ProfessorThiagoLeite.java)
+* [Exercício: Tipos de dados](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioDois_ProfessorThiagoLeite.java)
+* []()
 
 
