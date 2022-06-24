@@ -1,6 +1,6 @@
-package ExercicioUm_ProfessorThiagoLeite;
+package Variaveis;
 
-public class Variaveis {
+public class ExercicioUm_ProfessorThiagoLeite {
     public static void main(String[] args) {
         int i;
         //int i;

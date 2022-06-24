@@ -25,3 +25,10 @@ Repository with all projects developed on the DIO learning platform.
 * [Aula: *Debug* - Calculadora Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/primeiro_programa_java/src/br/com/dio/calculadora/Calculadora.java)
 * [Aula: *Criando seu primeiro projeto com Eclipse*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/primeiro_programa_java/src/br/com/dio/PrimeiroPrograma.java)
 * [Aula: *Mais Atalhos e versionamento*](https://github.com/claudiadejesusdantas/mais_atalhos_e_versionamento)
+
+## Curso: VARIÁVEIS, TIPOS DE DADOS E OPERADORES MATEMÁTICOS EM JAVA
+### Professora: Thiago Leite e Carvalho
+
+*[Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aula_variaveis)
+
+
