@@ -28,13 +28,13 @@ Repository with all projects developed on the DIO learning platform.
 
 ## Curso: VARIÁVEIS, TIPOS DE DADOS E OPERADORES MATEMÁTICOS EM JAVA
 ### Professora: Thiago Leite e Carvalho
-Repositório das aulas:[>>>tlcdio<<<](https://github.com/tlcdio?tab=repositories) 
+Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories) 
 
-* [Exercício 1: Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioUm_ProfessorThiagoLeite.java)
-* [Exercício 2: Tipos de dados](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioDois_ProfessorThiagoLeite.java)
-* [Exercício 3: Operadores aritméticos](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioTres_ProfessorThiagoLeite.java)
-* [Exercício 4: Conversões/Casting](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioQuatro_ProfessorThiagoLeite.java)
-* [Exercícios: Criação de Métodos em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/Metodos_Java_Dio/src)
+* [Exercício: Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioUm_ProfessorThiagoLeite.java)
+* [Exercício: Tipos de dados](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioDois_ProfessorThiagoLeite.java)
+* [Exercício: Operadores aritméticos](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioTres_ProfessorThiagoLeite.java)
+* [Exercício: Conversões/Casting](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioQuatro_ProfessorThiagoLeite.java)
+* [Exercício: Criação de Métodos em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/Metodos_Java_Dio/src)
 * [Exercício: Sobrecarga no método](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/sobrecarga_Java_Dio/src)
 * []()
 * []()
