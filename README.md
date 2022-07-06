@@ -42,5 +42,11 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 ## Curso: LÓGICA CONDICIONAL E CONTROLE DE FLUXO EM JAVA
 ### Professor: Thiago Leite e Carvalho
 
+* [Exercício: Operadores Relacionais](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresRelacionais/src)
+* []()
+
+* []()
+* []()
+* []()
 * []()
 * []()
