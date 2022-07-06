@@ -1,0 +1,56 @@
+Exemplos da aula Operadores Relacionais
+Professor Thiago Leite
+
+int i1 = 10;
+int i2 = 20;
+
+i1 == i2; (false,não são iguais)
+i1 != i2; (true, são diferentes)
+i1 > i2; (false, i1 é menor que i2)
+i1 <= i2; (true, i1 é menor que i2)
+
+float f1= 4.5f;
+float f2= 3.5f;
+
+f1 == f2;
+f1 != f2;
+f1 >= f2;
+f1 < f2;
+
+char c1= 'x';
+char c2= 'y';
+
+c1 == c2;
+c1 != c2;
+c1 >  c2;
+c1 <= c2;
+
+String s1= "Fulano";
+String s2= "Fulano";
+
+s1 == s2;
+s1 != s2;
+s1 >= s2;(não tem lógica, dá erro de compilação.)
+s1 <  s2;(não tem lógica, dá erro de compilação.)
+
+boolean b1= true;
+boolean b2= false;
+
+b1 == b2;
+b1 != b2;
+b1 > b2; (não tem lógica, dá erro de compilação.)
+b1 <=  i1;(não tem lógica, dá erro de compilação.)
+
+int i2 = 20;
+float f1= 4.5f;
+
+i2 > f1 (true, apesar de ser números diferentes eles podem ser compilados)
+
+Exercício
+Criar um simples projeto no IntelliJ para realizar as comparações dos exemplos acima,
+além de utilizar os demais tipos de dados não apresentados.
+
+
+
+
+
