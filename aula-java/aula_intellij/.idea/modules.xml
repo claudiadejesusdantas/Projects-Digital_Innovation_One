@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/aula_intellij.iml" filepath="$PROJECT_DIR$/.idea/aula_intellij.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula_variaveis/aula_variaveis.iml" filepath="$PROJECT_DIR$/aula_variaveis/aula_variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos_Java_Dio/metodos_Java_Dio.iml" filepath="$PROJECT_DIR$/metodos_Java_Dio/metodos_Java_Dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/return_Java_Dio/return_Java_Dio.iml" filepath="$PROJECT_DIR$/return_Java_Dio/return_Java_Dio.iml" />
     </modules>
   </component>
 </project>
