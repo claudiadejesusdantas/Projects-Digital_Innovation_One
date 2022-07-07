@@ -1,0 +1,15 @@
+EXERCÍCIO
+Criar um simples projeto no IntelliJ e criar variáveis e expressões para usar
+nas estruturas IF e SWITCH.
+Com IF, exiba o nome do mês do ano de acordo com o seu número.
+Evite o efeito "flecha".
+Faça outro IF que verifique que o mês é JULHO, DEZEMBRO ou JANEIRO,
+para assim exibir o texto férias.
+
+EXERCICIO 2
+Com SWITCH use String para a partir do dia da semana,
+exibir seu número.
+Ainda no SWITCH, faça outro exemplo onde,
+se uma variável inteira for entre 1 e 3 exibir o texto "Certo".
+Se for 4 exibir o texto "Errado", se for 5 exibir o texto "Talvez".
+Para demais valores exibir "Valor indefinido".
