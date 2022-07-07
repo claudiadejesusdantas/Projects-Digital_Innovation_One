@@ -1,0 +1,33 @@
+boolean b1=true;
+boolean b2=false;
+boolean b3=true;
+boolean b4=false;
+
+b1 && b2;
+b1 && b3;
+b2 || b3;
+b2 || b4;
+b1 ^ b3;
+b4 ^ b1;
+!b1;
+!b2;
+(i1>i2) || (f2 < f1);
+((i1>i2) < (f2 < f1) && true);
+
+BOAS PRÁTICAS
+> Crie variáveis auxiliares para guardar resultados intermediários.
+
+(salarioMensal < mediaSalario) && (quantidadeDependentes >= mediaDependentes)
+pode ser
+(salarioBaixo) && (muitosDependentes)
+
+boolean recebeAuxilio = (salarioBaixo)
+&& (muitosDependentes);
+
+
+EXERCÍCIO
+Crie um projeto simples no IntelliJ e codificar o exemplo dos slides da aula.
+Utilize operando e expressões.
+
+
+
