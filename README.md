@@ -43,9 +43,7 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 ### Professor: Thiago Leite e Carvalho
 
 * [Exercício: Operadores Relacionais](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresRelacionais/src)
-* []()
-
-* []()
+* [Exercício: Operadores Lógicos](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresLogicos)
 * []()
 * []()
 * []()
