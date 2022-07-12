@@ -1,0 +1,14 @@
+Exercitando 2
+Evolua o exercício 1 e defina 3 atributos para a classe "Carro":
+Cor, modelo e capacidade do tanque.
+Observação:
+ use a linguagem que gostar e siga as dicas sobre como criar atributos.
+
+RESPOSTA:
+ package POO.src.classe;
+
+ public class Carro {
+     String cor;
+     String modelo;
+     int capacidadeTanque;
+ }

@@ -1,0 +1,9 @@
+Exercitando 1
+Crie uma classe chamada "Carro".
+
+RESPOSTA:
+
+package POO.src.classe;
+
+public class Carro {
+    }
