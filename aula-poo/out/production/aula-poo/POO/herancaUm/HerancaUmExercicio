@@ -1,0 +1,26 @@
+Exercitando 1
+Crie a classe "Veiculo", "Carro", "Moto" e "Caminhao"
+Observação:
+Use a linguagem que gostar e siga as dicas sobre como criar classes.
+Faça a relação de herança que julgue adequada.
+
+RESPOSTA:
+package POO.herancaUm;
+
+public class Veiculo {
+    //Atributos e métodos
+    //observação: nem tudo que está definido na classe mãe será visto nas subclasses.
+}
+
+package POO.herancaUm;
+
+class Caminhao extends Veiculo {
+
+}
+
+class Carro extends Veiculo {
+
+}
+class Moto extends Veiculo {
+
+}

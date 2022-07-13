@@ -1,0 +1,47 @@
+Exercitando 2
+Análise do comportamento de Polimorfismo e Sobrescrita.
+
+POLIMORFISMO
+
+public class RodarAplicacao {
+    public static void main(String[] args) {
+        //vetor ClasseMae
+        ClasseMae[] classes = new ClasseMae[]{new ClasseFilha1(),new ClasseFilha2(), new ClasseMae()};
+
+        //polimorfismo ClasseMae x ClasseFilha1
+            sout:Método 1 da Classe Filha 1
+        //polimorfismo ClasseMae x ClasseFilha2
+            sout:Método 1 da Classe Filha 2
+        //não acontece polimorfismo ClasseMae x ClasseMae
+            sout:Método 1 da Classe Mãe
+
+
+        for (ClasseMae classe: classes) {
+            classe.metodo1();
+        }
+
+        System.out.println("");
+
+         for (ClasseMae classe: classes) {
+                    classe.metodo2();
+                }
+                System.out.println("");
+
+        //não acontece polimorfismo ClasseMae x ClasseFilha1
+        sout:Método 2 da Classe Mãe (na ClasseFilha1, não tem metodo2,
+        então o tipo de dado é diferente mas o método é da ClasseMae,
+         então o Metodo2 é igual, não sobrescreveu, usou diretamente o Método2
+         da ClasseMae)
+        //polimorfismo ClasseMae x ClasseFilha2 (na ClasseFilha2, tem metodo2)
+        sout:Método 2 da Classe Filha 2
+        //não acontece polimorfismo ClasseMae x ClasseMae
+        sout:Método 2 da Classe Mãe
+
+
+     ClasseFilha2 classeFilha2 = new ClasseFilha2();
+                    classeFilha2.metodo2();
+        //aqui não tem polimorfismo, tem a sobrescrita, porque aqui está
+        trabalhando diretamente com a ClasseFilha2, chamando o método
+        que sobrescreveu de forma pura, não usou a ClasseMae.
+
+        console:Método 2 da Classe Filha 2
