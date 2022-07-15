@@ -1,4 +1,4 @@
-package POO.src.classe;
+package POO.classe;
 //Exercício Classe: Crie uma classe chamada "Carro".
 public class Carro {
     String cor;
