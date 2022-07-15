@@ -53,7 +53,7 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 * [Exercício: Associação](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/associacao)
 * [Exercício: Interface](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/interface)
 * [Exercício: Pacotes](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/pacotes)
-* [Exercícios: Visibilidade](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/visibilidade)
+* [Exercício: Visibilidade](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/visibilidade)
 
 
 
