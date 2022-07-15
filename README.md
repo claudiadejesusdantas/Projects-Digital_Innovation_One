@@ -8,7 +8,7 @@ Repository with all projects developed on the DIO learning platform.
 ## Curso: INTRODUÇÃO AO GIT E AO GITHUB
 ### Professor: Otávio Reis Perkles
 
-* [Aula: *Iniciando o git e criando um commit*.](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/livro-receitas)
+* [Aula: Iniciando o git e criando um commit.](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/livro-receitas)
 * [Artigo: Comandos gits - Colinha básica.](https://www.dio.me/articles/comandos-git-colinha-basica)
 
 
@@ -45,15 +45,21 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 * [Exercício: Operadores Relacionais](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresRelacionais/src)
 * [Exercício: Operadores Lógicos](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresLogicos)
 * [Exercício: Controle de Fluxos- Operador de decisão: IF e SWITCH](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/controleDeFluxo)
-* [Exercício: Classe](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src)
-* [Exercício: Método](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src)
-* [Exercício: Objeto e Mensagem](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src)
-* [Exercício: Atributo](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src)
+* [Exercício: Classe](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src/classe)
+* [Exercício: Método](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src/metodo)
+* [Exercício: Objeto e Mensagem](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src/objetoEmensagem)
+* [Exercício: Atributo](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO/src/atributo)
 * [Exercícios: Herança e Polimorfismo](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO)
+* [Exercício: Associação](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/associacao)
+* [Exercício: Interface](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/interface)
+* [Exercício: Pacotes](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/pacotes)
+* [Exercícios: Visibilidade](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/visibilidade)
+
+
 
 * []()
 * []()
 * []()
 * []()
-
+* []()
 
