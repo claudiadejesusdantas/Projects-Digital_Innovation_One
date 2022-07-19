@@ -56,8 +56,11 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 * [Exercício: Visibilidade](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/visibilidade)
 
 
+## Curso: ESTRUTURAS DE REPETIÇÃO E ARRAYS EM JAVA
+### Professora: Camila Cavalcante
+* [Todas as aulas e exercícios desse módulo.](https://github.com/cami-la/loops-e-arrays)
 
-* []()
+
 * []()
 * []()
 * []()
