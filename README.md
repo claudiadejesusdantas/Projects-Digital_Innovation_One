@@ -52,7 +52,7 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 * [Exercícios: Herança e Polimorfismo](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO)
 * [Exercício: Associação](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/associacao)
 * [Exercício: Interface](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/interface)
-* [Exercício: Pacotes](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/pacotes)
+* [Exercício: Pacotes](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/pacotesDiversos)
 * [Exercício: Visibilidade](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-poo/POO-2/visibilidade)
 
 
