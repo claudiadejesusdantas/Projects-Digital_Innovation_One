@@ -58,8 +58,12 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 
 ## Curso: ESTRUTURAS DE REPETIÇÃO E ARRAYS EM JAVA
 ### Professora: Camila Cavalcante
-* [Todas as aulas e exercícios desse módulo.](https://github.com/cami-la/loops-e-arrays)
+Repositório das aulas:[loops e arrays](https://github.com/cami-la/loops-e-arrays)
+* [Arrays](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aulasArrays/arrays)
+* [Loops](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aulasLoops/loops)
 
+## Curso:
+### Professor(a):
 
 * []()
 * []()
