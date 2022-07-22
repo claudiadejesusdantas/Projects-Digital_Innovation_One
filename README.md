@@ -6,19 +6,19 @@ Repositório com todos os projetos desenvolvidos na plataforma de ensino DIO.
 Repository with all projects developed on the DIO learning platform.
 
 ## Curso: INTRODUÇÃO AO GIT E AO GITHUB
-### Professor: Otávio Reis Perkles
+### Professor(a): Otávio Reis Perkles
 
 * [Aula: Iniciando o git e criando um commit.](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/livro-receitas)
 * [Artigo: Comandos gits - Colinha básica.](https://www.dio.me/articles/comandos-git-colinha-basica)
 
 
 ## Curso: CRIANDO SEU PRIMEIRO REPOSITÓRIO NO GITHUB PARA COMPARTILHAR SEU PROGRESSO
-### Professor: Venilton Falvo Jr
+### Professor(a): Venilton Falvo Jr
 
 * [Projeto: Primeiro repositório.](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/dio-desafio-github-primeiro-repositorio)
 
 ## Curso: DOMINANDO IDES JAVA
-### Professora: Camila Cavalcante
+### Professor(a): Camila Cavalcante
 
 * [Artigo: Atalhos Eclipse - colinha básica II.](https://www.dio.me/articles/atalhos-eclipse-colinha-basica-ii)
 * [Instagram - Aula: *Atalhos*](https://www.instagram.com/p/CfEc-sCAhb_/)
@@ -27,7 +27,7 @@ Repository with all projects developed on the DIO learning platform.
 * [Aula: *Mais Atalhos e versionamento*](https://github.com/claudiadejesusdantas/mais_atalhos_e_versionamento)
 
 ## Curso: VARIÁVEIS, TIPOS DE DADOS E OPERADORES MATEMÁTICOS EM JAVA
-### Professor: Thiago Leite e Carvalho
+### Professor(a): Thiago Leite e Carvalho
 Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories) 
 
 * [Exercício: Boas práticas para criar o nome da variável em Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/aula_variaveis/src/Exercicios_Variaveis/ExercicioUm_ProfessorThiagoLeite.java)
@@ -40,7 +40,7 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 
 
 ## Curso: LÓGICA CONDICIONAL E CONTROLE DE FLUXO EM JAVA
-### Professor: Thiago Leite e Carvalho
+### Professor(a): Thiago Leite e Carvalho
 
 * [Exercício: Operadores Relacionais](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresRelacionais/src)
 * [Exercício: Operadores Lógicos](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/operadoresLogicos)
@@ -57,13 +57,14 @@ Repositório das aulas:[ tlcdio ](https://github.com/tlcdio?tab=repositories)
 
 
 ## Curso: ESTRUTURAS DE REPETIÇÃO E ARRAYS EM JAVA
-### Professora: Camila Cavalcante
+### Professor(a): Camila Cavalcante
 Repositório das aulas: [loops e arrays](https://github.com/cami-la/loops-e-arrays)
 * [Arrays](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aulasArrays/arrays)
 * [Loops](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/aulasLoops/loops)
 
-## Curso:
-### Professor(a):
+## Curso: Trabalhando com Collections Java
+### Professor(a): Camila Cavalcante
+Repositório das aulas: [Collections](https://github.com/cami-la/curso-dio-intro-collections)
 
 * []()
 * []()
