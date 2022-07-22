@@ -66,7 +66,7 @@ Repositório das aulas: [loops e arrays](https://github.com/cami-la/loops-e-arra
 ### Professor(a): Camila Cavalcante
 Repositório das aulas: [Collections](https://github.com/cami-la/curso-dio-intro-collections)
 
-* []()
+* [Aula: Lists](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/collectionsJava/lists/src)
 * []()
 * []()
 * []()
