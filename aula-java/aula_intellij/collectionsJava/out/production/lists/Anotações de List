@@ -1,0 +1,64 @@
+Exemplo list
+
+//        List notas = new ArrayList();//antes do java 5
+
+//        List<Double> notas = new ArrayList<Double>(); //Generics(JDK 5) - <> Diamont Operator (JDK7)
+
+//        ArrayList<Double> notas = new ArrayList<>();
+
+//        List<Double> notas = Arrays.asList(7d,8.5,9.3,5d,7d,0d,3.6);
+
+//        List<Double> notas = Arrays.asList(7d,8.5,9.3,5d,7d,0d,3.6);
+//        notas.add(10d);
+//        System.out.println(notas);
+
+//        List<double> notas = List.of(7d,8.5,9.3,5d,7d,0d,3.6);
+//        notas.add(1d); não pode fazer
+//        notas.remove(5d); não pode fazer
+//        System.out.println(notas);
+
+//        List<Double> notas = List.of(7d,8.5,9.3,5d,7d,0d,3.6);
+//        notas.add(1d); não pode fazer
+//        notas.remove(5d); não pode fazer
+//        System.out.println(notas);
+
+
+Exemplos:
+Dada uma lista com sete notas de um aluno [7,8.5,9.3,5,7,0,3.6], faça:
+1.Crie uma lista e adicione as sete notas.
+2. Exiba a posição da nota 5.0.
+3. Substitua a nota 5.0 pela nota 6.0.
+4. Confira se a nota 5.0 está na lista.
+5. Exiba todas as notas na ordem em que foram informados.
+6. Exiba a terceira nota adicionada.
+7. Exiba a menor nota.
+8. Exiba a maior nota.
+9. Exiba a soma dos valores.
+10. Exiba a média das notas.
+11. Remova a nota 0.
+12. Remova a nota na posição 0.
+13. Remova as notas menores que 7.0 e exiba a lista.
+14. Apague toda a lista.
+15. Confira se a lista está vazia.
+
+Atividades:
+Para você: Resolva esses exercícios utilizando os métodos da implementação linkedList:
+
+01. Cria uma lista chamada notas2 e coloque todos os elementos da
+list ArrayList nessa nova lista. [7,8.5,9.3,5,7,0,3.6]
+02. Mostre a primeira nota da nova lista sem removê-lo:
+03. Mostre a primeira nota da nova lista removendo-o:
+
+
+Referências de leitura:
+https://www.baeldung.com/java-diamond-operator
+
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
+
+
+
+
+
+
+
+
