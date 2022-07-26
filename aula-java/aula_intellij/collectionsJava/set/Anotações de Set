@@ -1,0 +1,29 @@
+Exemplo
+--Dada uma lista com sete notas de um aluno [7,8.5,9.3,5,7,0,3.6], faça:
+1.Crie uma lista e adicione as sete notas.
+2. Exiba a posição da nota 5.0.
+3. Substitua a nota 5.0 pela nota 6.0.
+4. Confira se a nota 5.0 está na lista.
+5. Exiba todas as notas na ordem em que foram informados.
+6. Exiba a terceira nota adicionada.
+7. Exiba a menor nota.
+8. Exiba a maior nota.
+9. Exiba a soma dos valores.
+10. Exiba a média das notas.
+11. Remova a nota 0.
+12. Remova a nota na posição 0.
+13. Remova as notas menores que 7.0 e exiba a lista.
+14. Apague toda a lista.
+15. Confira se a lista está vazia.
+
+
+Exercícios Propostos
+● Crie um conjunto contendo as cores do arco-íris e:
+A. Exiba todas as cores uma abaixo da outra
+B. A quantidade de cores que o arco-íris tem
+C. Exiba as cores em ordem alfabética
+D. Exiba as cores na ordem inversa da que foi informada
+E. Exiba todas as cores que começam com a letra ”v”
+F. Remova todas as cores que não começam com a letra “v”
+G. Limpe o conjunto
+H. Confira se o conjunto está vazio
