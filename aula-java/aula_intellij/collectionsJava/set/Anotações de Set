@@ -27,3 +27,14 @@ E. Exiba todas as cores que começam com a letra ”v”
 F. Remova todas as cores que não começam com a letra “v”
 G. Limpe o conjunto
 H. Confira se o conjunto está vazio
+
+● Crie uma classe LinguagemFavorita que possua os atributos
+nome, anoDeCriacao e ide. Em seguida, crie um conjunto com
+3 linguagens e faça um programa que ordene esse conjunto
+por:
+A. Ordem de Inserção
+B. Ordem Natural (nome)
+C. IDE
+D. Ano de criação e nome
+E. Nome, ano de criacao e IDE
+Ao final, exiba as linguagens no console, um abaixo da outra.
