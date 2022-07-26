@@ -17,12 +17,13 @@ public class AtividadesLinkedList {
         notas2.add(3.6);
 
         System.out.println(notas2);
-//
+
 //        notas2.clear(); //limpar a lista inteira
 //        System.out.println(notas2);
+
 //        notas2.remove(3); //remove o elemento pelo índice
 //        System.out.println(notas2);
-//
+////
 //        notas2.remove(0.0);//remove o elemento pelo valor
 //        System.out.println(notas2);
 

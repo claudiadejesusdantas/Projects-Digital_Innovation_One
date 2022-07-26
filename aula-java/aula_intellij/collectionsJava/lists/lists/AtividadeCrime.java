@@ -8,7 +8,7 @@ pessoa sobre um crime. As perguntas são:
 Se a pessoa responder positivamente a 2 questões ela deve ser
 classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como
 "Assassina". Caso contrário, ela será classificado como "Inocente".*/
-
+//não feito
 public class AtividadeCrime {
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 Exemplo
---Dada uma lista com sete notas de um aluno [7,8.5,9.3,5,7,0,3.6], faça:
+Set --Dada uma lista com sete notas de um aluno [7,8.5,9.3,5,7,0,3.6], faça:
 1.Crie uma lista e adicione as sete notas.
 2. Exiba a posição da nota 5.0.
 3. Substitua a nota 5.0 pela nota 6.0.
@@ -15,6 +15,15 @@ Exemplo
 13. Remova as notas menores que 7.0 e exiba a lista.
 14. Apague toda a lista.
 15. Confira se a lista está vazia.
+
+Series --Dadas as seguintes informações sobre minhas séries favoritas,
+crie um conjunto e ordene este conjunto exibindo:
+(nome, gênero e tempo de episódio);
+
+Série 1 = Nome: got, gênero: fantasia, tempoEpisodio: 60,
+Série 2 = Nome: dark, gênero: drama, tempoEpisodio: 60,
+Série 3 = Nome: that'70s show, gênero: comédia, tempoEpisodio: 25
+
 
 
 Exercícios Propostos
