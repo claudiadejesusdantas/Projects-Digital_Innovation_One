@@ -1,0 +1,44 @@
+Desafios básicos de Java - Santander Code Girls 2022
+
+01. Intervalo
+Desafio:
+
+ENTRADA:
+SAÍDA:
+
+
+ENTRADA:
+SAÍDA:
+
+02. Dominó
+Desafio:
+
+ENTRADA:
+SAÍDA:
+
+
+ENTRADA:
+SAÍDA:
+
+03. Seleção de índice do vetor
+
+Desafio:
+O objetivo deste desafio é resolvê-lo utilizando o seu conhecimento sobre Arrays,
+uma estrutura de dados que armazena uma coleção de dados em um bloco de memória.
+Desenvolva um programa que guarde em um vetor nomes de funcionários de uma empresa.
+Deve-se permitir que, ao indicar o índice do vetor,
+seja indicado qual funcionário está armazenado dentro dessa memória.
+
+Entrada
+As primeiras 5 linhas da entrada deverá contar o o vetor NOMES com 5
+espaços na memoria, a última linha deverá conter a posição escolhida do vetor.
+
+Saída
+A saída deverá retornar o nome de acordo com a posição do vetor
+escolhida anteriormente, conforme exemplo abaixo.
+
+ENTRADA: João Maria Carlos Karla Joana 4
+SAÍDA: Joana
+
+ENTRADA:Julia Kleber Rafael Felipe Adriana 2
+SAÍDA: Rafael
