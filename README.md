@@ -67,7 +67,7 @@ Repositório das aulas: [loops e arrays](https://github.com/cami-la/loops-e-arra
 Repositório das aulas: [Collections](https://github.com/cami-la/curso-dio-intro-collections)
 
 * [Aula: Lists](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/collectionsJava/lists/src)
-* [Exercício: Listas - Temperatura](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/src/AtividadeTemperatura.java)
+* [Exercício: Listas - Temperatura](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadeTemperatura.java)
 * [Exercício: LinkedList](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadesLinkedList.java)
 * [Exercício: Crime *NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadeCrime.java)
 * [Exercício: Arco-Íris*NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/set/set/Arcoiris.java)
