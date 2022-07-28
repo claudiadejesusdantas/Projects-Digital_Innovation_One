@@ -66,7 +66,7 @@ Repositório das aulas: [loops e arrays](https://github.com/cami-la/loops-e-arra
 ### Professor(a): Camila Cavalcante
 Repositório das aulas: [Collections](https://github.com/cami-la/curso-dio-intro-collections)
 
-* [Aula: Lists](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/collectionsJava/lists/src)
+* [Aula: Lists](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/tree/main/aula-java/aula_intellij/collectionsJava/lists/lists)
 * [Exercício: Listas - Temperatura](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadeTemperatura.java)
 * [Exercício: LinkedList](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadesLinkedList.java)
 * [Exercício: Crime *NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/lists/lists/AtividadeCrime.java)
@@ -76,9 +76,17 @@ Repositório das aulas: [Collections](https://github.com/cami-la/curso-dio-intro
 * [Exercício e Exemplos Map: Livros*NÃO FEITO*]()
 * [Exercício: Estados*NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/map/map/Estados.java)
 * [Desafio Map: Dados*NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/aula-java/aula_intellij/collectionsJava/map/map/DesafioMap.java)
-* []()
-* []()
-* []()
+
+
+## DESAFIOS: Bootcamp Santander Code Girls 2022
+### Desafios: [Desafios Básicos Java](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/desafios_b%C3%A1sicos_Java-CodeGirlsSantander/Desafios) 
+* [Domino](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/desafios_b%C3%A1sicos_Java-CodeGirlsSantander/Domino.java)
+* [Índice do Vetor *NÃO FEITO*](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/desafios_b%C3%A1sicos_Java-CodeGirlsSantander/IndiceDoVetor.java)
+* [Intervalo](https://github.com/claudiadejesusdantas/Projects-Digital_Innovation_One/blob/main/desafios_b%C3%A1sicos_Java-CodeGirlsSantander/Intervalo.java)
+
+
+## Curso: --
+### Professor(a): --
 * []()
 * []()
 * []()
